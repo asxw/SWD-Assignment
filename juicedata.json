@@ -1,0 +1,17 @@
+[
+    {
+      "brand_code": 1,
+      "brand": "Super Orange Juice",
+      "description": "This is natual orange juice"
+    },
+    {
+      "brand_code": 2,
+      "brand": "Apple Juice",
+      "description": "This is natual apple juice"
+    },
+    {
+      "id": 3,
+      "brand": "Banana Juice",
+      "description": "This is natual Banana juice"
+    }
+  ] 
